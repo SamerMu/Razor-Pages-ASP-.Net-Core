@@ -6,6 +6,9 @@ Welcome! This is the starter app for the [Create a web UI with ASP.NET Core](htt
 
 The completed version of this module is available on the `solution` branch of this repo.
 
+![image](https://github.com/user-attachments/assets/a82cc17d-afe1-49ea-82d7-5d8602d88262)
+
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
